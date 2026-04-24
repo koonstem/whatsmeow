@@ -7,7 +7,7 @@ require (
 	go.mau.fi/libsignal v0.1.0
 	go.mau.fi/util v0.4.1
 	golang.org/x/crypto v0.24.0
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.34.0
 	github.com/rs/zerolog v1.32.0
 	github.com/google/uuid v1.6.0
 )
@@ -20,3 +20,4 @@ require (
 
 // Personal fork - upstream: https://github.com/tulir/whatsmeow
 // Updated golang.org/x/crypto to v0.24.0 and golang.org/x/sys to v0.21.0
+// Bumped google.golang.org/protobuf to v1.34.0 for latest bug fixes
