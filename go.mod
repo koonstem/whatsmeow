@@ -19,3 +19,4 @@ require (
 )
 
 // Personal fork - upstream: https://github.com/tulir/whatsmeow
+// TODO: look into upgrading golang.org/x/crypto and golang.org/x/sys to latest
