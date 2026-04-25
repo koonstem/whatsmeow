@@ -21,3 +21,4 @@ require (
 // Personal fork - upstream: https://github.com/tulir/whatsmeow
 // Updated golang.org/x/crypto to v0.24.0 and golang.org/x/sys to v0.21.0
 // Bumped google.golang.org/protobuf to v1.34.0 for latest bug fixes
+// Note: keeping go 1.21 minimum to stay compatible with my local toolchain (1.21.6)
