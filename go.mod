@@ -24,3 +24,4 @@ require (
 // Note: keeping go 1.21 minimum to stay compatible with my local toolchain (1.21.6)
 // TODO: look into upgrading gorilla/websocket or switching to nhooyr.io/websocket
 // TODO: evaluate replacing rs/zerolog with log/slog now that it's in stdlib (go 1.21+)
+// TODO: consider adding golang.org/x/net as a direct dep if HTTP upgrade handling is needed
